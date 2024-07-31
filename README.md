@@ -33,7 +33,6 @@ To run this project on your local machine, follow these steps:
 
 ## Clone the repository:
 git clone https://github.com/yourusername/FoodHub-Order-Analysis.git
-Install the required dependencies:
 
 ## Load the dataset:
 Ensure the dataset is in the correct path as specified in the code files.
